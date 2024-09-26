@@ -1,0 +1,17 @@
+[
+{
+		"name": "Maester",
+		"science": 2,
+		"culture": 1,
+  "food": 1,
+		"color": [173, 142, 166]
+	},
+{
+		"name": "Pyromancer",
+		"science": 3,
+		"happiness": -1,
+  "production": 1,
+		"greatPersonPoints": {"Great Engineer":1},
+		"color": [189, 237, 66]
+	},
+]
