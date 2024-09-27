@@ -25,7 +25,7 @@
 	},
 {
 		"name": "Green Flames",
-		"uniques": ["[+50]% maintenance costs", "[+40]% Strength <when attacking> <with [50]% chance", "[+40]% Strength <when attacking> <vs [Water] units>", "[+40]% Strength <when attacking> <vs [Siege] units>", "Self-destructs when attacking <with [4]% chance> <when [wounded]>", "Earn [5]% of the damage done to [Military] units as [Science]", "Destroys tile improvements when attacking"]
+		"uniques": ["[+50]% maintenance costs", "[+40]% Strength <when attacking> <with [50]% chance>", "[+40]% Strength <when attacking> <vs [Water] units>", "[+40]% Strength <when attacking> <vs [Siege] units>", "Self-destructs when attacking <with [4]% chance> <when [wounded]>", "Earn [5]% of the damage done to [Military] units as [Science]", "Destroys tile improvements when attacking"]
 	},
 	{
 		"name": "Sellout",
